@@ -3,7 +3,7 @@ Problem: Students and bus users on campus are having trouble finding and paying 
 
 Solution: A responsive web application that allows students to make reservations online and find buses from anywhere on campus. using sensors and IoT devices to track buses
 
-figma link
+figma link: https://www.figma.com/file/hL3Jk7GEEjRuvQnojuYYcL/UCC-ShuttleTracker?node-id=102%3A8
 
 Progress and timeline link:
 progress tile:
